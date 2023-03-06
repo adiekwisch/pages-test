@@ -1,0 +1,23 @@
+title: Awesome website
+description: awesome description
+favicon: false
+color-scheme: light
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+navigation:
+  - name: Home
+    link: ./index.html
+  - name: Test1
+    link: ./test1.html
+  - name: Test2
+    link: ./test2.html
