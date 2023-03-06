@@ -2,6 +2,7 @@ title: Awesome website
 description: awesome description
 favicon: false
 color-scheme: light
+logo: logo.jpg
 
 plugins:
   - jekyll-remote-theme
