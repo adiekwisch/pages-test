@@ -51,6 +51,7 @@ minima:
 #
 header_pages:
   - index.md
+  - news.md
   - project.md
   - about.md
 
