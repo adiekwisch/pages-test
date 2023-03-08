@@ -6,10 +6,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: page
-title: Home
+title: Project
 ---
 
-# Energy Efficient AI by DNN Approximation for FPGAs
+# What is the eki Research Project?
 
 
 
